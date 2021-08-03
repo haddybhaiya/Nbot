@@ -1,6 +1,6 @@
 {
 	"ip":"haddybhaiyaSMP.aternos.me",
 	"port": "64498",
-	"name": "nbot",
-	"auto-night-skip":"false"
+	"name": "Nbot",
+	"auto-night-skip":"true"
 }
